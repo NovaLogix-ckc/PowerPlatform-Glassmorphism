@@ -1,11 +1,11 @@
 # Glassmorphism - Power Platform Canvas App
 
-A demo Power Apps Canvas App showcasing the **glassmorphism** UI design pattern, provided by [Novalogix](https://www.novalogix.co.uk/) as a companion to a YouTube tutorial video.
+A demo Power Apps Canvas App showcasing the **glassmorphism** UI design pattern, provided by [Novalogix](https://www.youtube.com/@Novalogix-ltd) as a companion to a YouTube tutorial video.
 
 ## Video Tutorial
 
 <!-- TODO: Replace the link below with the actual YouTube video URL -->
-[Watch the tutorial on YouTube](#)
+[Watch the tutorial on YouTube](https://www.youtube.com/watch?v=o82dxmHHWxQ)
 
 ## Prerequisites
 
