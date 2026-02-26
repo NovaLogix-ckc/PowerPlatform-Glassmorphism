@@ -5,7 +5,7 @@ A demo Power Apps Canvas App showcasing the **glassmorphism** UI design pattern,
 ## Video Tutorial
 
 <!-- TODO: Replace the link below with the actual YouTube video URL -->
-[Watch the tutorial on YouTube](https://www.youtube.com/watch?v=o82dxmHHWxQ)
+[Watch the tutorial on YouTube](https://youtu.be/o82dxmHHWxQ)
 
 ## Prerequisites
 
@@ -59,6 +59,12 @@ If you cloned or downloaded the repository source, you need to create the soluti
 | Type | Unmanaged |
 | Component | Canvas App |
 | Publisher | Colin Kelly-Cook (Novalogix) |
+
+## Support
+
+If you found this useful, please consider supporting my work — it helps me keep creating free Power Platform content!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/colin.kellycook)
 
 ## License
 
