@@ -5,7 +5,7 @@ A demo Power Apps Canvas App showcasing the **glassmorphism** UI design pattern,
 ## Video Tutorial
 
 <!-- TODO: Replace the link below with the actual YouTube video URL -->
-[Watch the tutorial on YouTube](https://youtu.be/o82dxmHHWxQ)
+[![Watch the tutorial on YouTube](https://img.youtube.com/vi/o82dxmHHWxQ/maxresdefault.jpg)](https://youtu.be/o82dxmHHWxQ)
 
 ## Prerequisites
 
